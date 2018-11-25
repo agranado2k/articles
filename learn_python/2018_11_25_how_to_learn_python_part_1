@@ -1,0 +1,40 @@
+
+## Introduction
+
+One moth ago I joint a new company as lead engineer, and one the languages that they use there is Python.
+
+I've worked with Python some years ago (2009) when I was doing my master degree to create some scripts and a simple web site using one the
+first Django versions. But in this time I was was just starting my life as developer and after that I worked with different languages
+like C, C++, Java, JavaScript and Ruby.
+
+So, my challenge was learn Python as fast as possible and understand the best practices for create a good projects with it. It can take
+time, however the last 5 years I've worked a lot with Ruby in different projects and I learned a lot of things in the hard way. The idea
+is to reuse all this past experiences to make the things easier and faster. I created a small list as a guide and help me.
+
+
+## Roadmap
+
+I should learn:
+  1. the basic concepts about Python;
+  2. how to write good tests (specs);
+  3. how are the best practices to organize projects and distributions;
+  4. create a GUI game (Space Invaders);
+  5. redo some katas and exercies that I've done before to learn the best way to write it in Python;
+  6. create a mini-blog with Django.
+
+For sure that I won't mastery it only doing it, but after that I'll have enough knowledge to take some decitions and help to guid my
+team to take decisions too.
+
+In this article I'll talk about the first 3 points and I'll talk about the remains points in next articles.
+
+
+## Learn the basic concepts about Python
+
+Python, as Ruby, is a dynamic language and almost everything is an object (different from Ruby where everything is an object).
+The best way to learn about the syntax, keywords and how to define a method is doing it. So I looked for some good references and
+I found ["How to Learn Python In The Hard Way](https://learnpythonthehardway.org/), stating from exercise 1 until exercise 46 was really
+useful to learn basic concepts about Pyhon, you can check my exercises solutions [here](https://github.com/agranado2k/learn_python_hard_way).
+However I though that the way that exercise 46 structured the code was a little bit outdated. I'll talk more about that later.
+
+
+## Writing Good Tests (Specs - TDD)
